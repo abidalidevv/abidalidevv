@@ -24,3 +24,4 @@
 // Fix memory leak in iterator - 2020-11-22 10:04:00
 // Improve exception messages - 2023-08-14 10:00:00
 // Add validation logic - 2024-04-17 10:10:00
+// Improve type hints - 2017-06-30 10:06:00
