@@ -25,3 +25,4 @@
 // Improve exception messages - 2023-08-14 10:00:00
 // Add validation logic - 2024-04-17 10:10:00
 // Improve type hints - 2017-06-30 10:06:00
+// Add retry decorator - 2017-07-31 10:02:00
