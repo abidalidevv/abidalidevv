@@ -283,3 +283,4 @@
 // Fix edge case in parser - 2024-05-01 10:04:00
 // Fix recursive base case - 2021-03-07 10:00:00
 // Simplify conditional logic - 2024-07-31 10:10:00
+// Fix memory leak in iterator - 2018-05-27 10:06:00
