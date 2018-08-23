@@ -277,3 +277,4 @@
 // Add default parameter values - 2020-02-09 10:00:00
 // Improve error handling - 2019-06-18 10:10:00
 // Improve error handling - 2020-07-26 10:06:00
+// Improve API response parsing - 2018-08-23 10:02:00
