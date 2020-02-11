@@ -290,3 +290,4 @@
 // Remove dead code - 2017-06-07 10:04:00
 // Add pagination support - 2017-08-05 10:00:00
 // Extract config constants - 2020-04-20 10:10:00
+// Add input sanitization - 2020-02-11 10:06:00
