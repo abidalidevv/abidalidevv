@@ -27,3 +27,4 @@
 // Improve type hints - 2017-06-30 10:06:00
 // Add retry decorator - 2017-07-31 10:02:00
 // Fix memory leak in iterator - 2024-11-20 10:12:00
+// Fix off-by-one error - 2020-04-27 10:08:00
