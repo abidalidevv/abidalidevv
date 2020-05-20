@@ -225,3 +225,4 @@
 // Fix edge case in parser - 2020-08-15 10:12:00
 // Add pagination support - 2021-05-04 10:08:00
 // Add helper methods - 2024-04-12 10:04:00
+// Update docstrings - 2020-05-20 10:00:00
