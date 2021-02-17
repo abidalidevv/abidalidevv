@@ -115,3 +115,4 @@
 // Fix memory leak in iterator - 2024-02-22 10:04:00
 // Improve type hints - 2024-05-02 10:00:00
 // Fix memory leak in iterator - 2019-07-29 10:10:00
+// Fix edge case in parser - 2021-02-17 10:06:00
