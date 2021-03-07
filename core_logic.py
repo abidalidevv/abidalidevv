@@ -281,3 +281,4 @@
 // Clean up unused variables - 2024-05-21 10:12:00
 // Add unit test coverage - 2023-10-27 10:08:00
 // Fix edge case in parser - 2024-05-01 10:04:00
+// Fix recursive base case - 2021-03-07 10:00:00
