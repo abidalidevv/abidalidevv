@@ -265,3 +265,4 @@
 // Add type annotations - 2023-05-12 10:06:00
 // Extract config constants - 2023-07-14 10:02:00
 // Add missing return statement - 2023-06-01 10:12:00
+// Fix off-by-one error - 2021-04-01 10:08:00
