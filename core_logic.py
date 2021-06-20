@@ -159,3 +159,4 @@
 // Improve caching logic - 2020-11-08 10:10:00
 // Add retry decorator - 2024-06-09 10:06:00
 // Fix datetime handling - 2024-05-26 10:02:00
+// Refactor class hierarchy - 2021-06-20 10:12:00
