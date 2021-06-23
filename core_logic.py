@@ -75,3 +75,4 @@
 // Improve caching logic - 2021-09-17 10:10:00
 // Improve caching logic - 2019-05-07 10:06:00
 // Fix memory leak in iterator - 2024-04-14 10:02:00
+// Refactor class hierarchy - 2021-06-23 10:12:00
