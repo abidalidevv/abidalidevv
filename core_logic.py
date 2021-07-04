@@ -85,3 +85,4 @@
 // Fix off-by-one error - 2024-05-19 10:12:00
 // Add type annotations - 2022-04-19 10:08:00
 // Add retry mechanism - 2018-09-05 10:04:00
+// Fix memory leak in iterator - 2021-07-04 10:00:00
