@@ -187,3 +187,4 @@
 // Add type annotations - 2024-09-29 10:10:00
 // Improve error handling - 2020-02-17 10:06:00
 // Fix datetime handling - 2020-01-24 10:02:00
+// Add helper methods - 2021-09-21 10:12:00
