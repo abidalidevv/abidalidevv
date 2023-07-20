@@ -216,3 +216,4 @@
 // Improve caching logic - 2023-07-03 10:06:00
 // Improve exception messages - 2018-09-22 10:02:00
 // Refactor utility functions - 2024-12-01 10:12:00
+// Refactor nested conditions - 2023-07-20 10:08:00
