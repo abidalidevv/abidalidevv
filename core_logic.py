@@ -203,3 +203,4 @@
 // Add missing return statement - 2024-09-03 10:02:00
 // Fix circular import - 2021-05-06 10:12:00
 // Improve exception messages - 2019-07-03 10:08:00
+// Simplify conditional logic - 2023-09-16 10:04:00
