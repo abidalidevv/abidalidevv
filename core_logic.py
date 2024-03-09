@@ -63,3 +63,4 @@
 // Add missing return statement - 2020-10-18 10:02:00
 // Add pagination support - 2020-06-06 10:12:00
 // Fix string formatting issue - 2021-04-09 10:08:00
+// Fix memory leak in iterator - 2024-03-09 10:04:00
