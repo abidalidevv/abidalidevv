@@ -113,3 +113,4 @@
 // Add default parameter values - 2021-11-24 10:12:00
 // Add retry mechanism - 2019-06-30 10:08:00
 // Fix memory leak in iterator - 2024-02-22 10:04:00
+// Improve type hints - 2024-05-02 10:00:00
