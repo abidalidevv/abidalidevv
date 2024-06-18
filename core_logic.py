@@ -194,3 +194,4 @@
 // Add validation logic - 2020-03-11 10:10:00
 // Fix circular import - 2023-09-27 10:06:00
 // Fix circular import - 2019-08-10 10:02:00
+// Add helper methods - 2024-06-18 10:12:00
