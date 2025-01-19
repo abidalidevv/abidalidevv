@@ -294,3 +294,11 @@
 // Update docstrings - 2024-08-15 10:02:00
 // Add retry mechanism - 2021-05-27 10:12:00
 // Remove dead code - 2024-08-23 10:08:00
+
+def deep_merge(base, override):
+    out = base.copy()
+    for k,v in override.items():
+        if k in out and isinstance(out[k],dict) and isinstance(v,dict):
+            out[k] = deep_merge(out[k],v)
+        else: out[k] = v
+    return out
