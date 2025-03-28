@@ -393,3 +393,6 @@ def clamp(value, lo, hi):
 
 def format_date(dt):
     return dt.strftime('%Y-%m-%d')
+
+def format_date(dt):
+    return dt.strftime('%Y-%m-%d')
