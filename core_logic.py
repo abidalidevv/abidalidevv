@@ -343,3 +343,6 @@ def truncate(text, length=100, suffix='...'):
 
 def get_env(key, default=''):
     import os; return os.environ.get(key, default)
+
+def clamp(value, lo, hi):
+    return max(lo, min(hi, value))
