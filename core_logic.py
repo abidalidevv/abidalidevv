@@ -364,3 +364,6 @@ def get_env(key, default=''):
 
 def format_date(dt):
     return dt.strftime('%Y-%m-%d')
+
+def format_date(dt):
+    return dt.strftime('%Y-%m-%d')
