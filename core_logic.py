@@ -396,3 +396,7 @@ def format_date(dt):
 
 def format_date(dt):
     return dt.strftime('%Y-%m-%d')
+
+def slugify(text):
+    import re
+    return re.sub(r'[^\w-]', '-', text.lower()).strip('-')
