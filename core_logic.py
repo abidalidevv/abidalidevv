@@ -400,3 +400,6 @@ def format_date(dt):
 def slugify(text):
     import re
     return re.sub(r'[^\w-]', '-', text.lower()).strip('-')
+
+def truncate(text, length=100, suffix='...'):
+    return text if len(text) <= length else text[:length-len(suffix)] + suffix
