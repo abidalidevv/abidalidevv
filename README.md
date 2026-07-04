@@ -1,5 +1,21 @@
 # 💫 About Me:
-## 🚀 About Me<br><br>💼 I'm currently working on high-performance WordPress websites, HubSpot CMS themes, WooCommerce stores, AI-powered SaaS products, and frontend applications that help businesses grow.<br><br>🤝 I'm looking to collaborate with startups, agencies, SaaS companies, and entrepreneurs who need scalable web solutions, modern UI/UX, custom CMS development, or automation systems.<br><br>🛠️ I'm looking for help with AI engineering, LLM integrations, cloud infrastructure, DevOps, and building scalable SaaS products with modern technologies.<br><br>🌱 I'm currently learning Next.js, TypeScript, Node.js, AI automation, cloud deployment, and advanced backend architecture to build complete production-ready applications.<br><br>💬 Ask me about:<br>- ⚡ WordPress & Custom Theme Development<br>- 🛒 WooCommerce & E-commerce Solutions<br>- 🎨 Elementor & Pixel-Perfect UI Development<br>- 🤖 GoHighLevel CRM, Funnels & Automation<br>- 🚀 HubSpot CMS Development<br>- ⚛️ React, JavaScript & Frontend Engineering<br>- 🔐 Website Security & Malware Removal<br>- 📈 Performance Optimization & Core Web Vitals<br>- 🌐 API Integrations & Custom Web Solutions<br><br>🏆 Highlights:<br>- 🚀 8+ Years of Professional Experience<br>- 🌍 280+ Websites Delivered Worldwide<br>- ⚡ Improved Website Performance by up to 40%<br>- 💼 Worked with International Clients & US Agencies<br>- 🔥 Passionate about Clean Code, Scalability & User Experience<br><br>⚡ Fun Fact:<br>I enjoy turning complex ideas into fast, secure, and scalable digital products. Whether it's optimizing a slow WordPress website, building a custom CMS solution, or creating an AI-powered SaaS, I love solving challenging problems through clean and maintainable code.
+## 🚀 About Me<br> 
+
+💼 I'm currently building high-performance WordPress websites, HubSpot CMS solutions, WooCommerce stores, and AI-powered web applications.
+
+🤝 Open to collaborating with startups, agencies, and SaaS companies on Frontend, WordPress, and GoHighLevel projects.
+
+🌱 Currently learning AI Automation, Next.js, TypeScript, and cloud technologies.
+
+💬 Ask me about WordPress, HubSpot CMS, WooCommerce, GoHighLevel, React, JavaScript, PHP, APIs, and Performance Optimization.
+
+🏆 Highlights
+- 🚀 8+ Years of Experience
+- 🌍 200+ Websites Delivered
+- 💼 International Clients & US Agencies
+- ⚡ Performance & Conversion Focused
+
+⚡ I enjoy building fast, scalable, and user-friendly digital products that solve real business problems.
 
 
 ## 🌐 Socials:
