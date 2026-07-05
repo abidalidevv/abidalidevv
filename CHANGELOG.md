@@ -2,6 +2,10 @@
 
 All notable changes to the `abidalidevv` profile configuration and layout will be documented in this file.
 
+## [1.2.0] - 2026-07-05
+### Added
+- Enabled repository Discussions tab to support community QA and feedback.
+
 ## [1.1.0] - 2026-07-04
 ### Added
 - Created `LICENSE` file for repository legal compliance.
