@@ -14,7 +14,7 @@ I am a highly experienced Full-Stack Developer specializing in high-performance 
 
 - 💼 **Current Focus:** Building high-speed WordPress & WooCommerce setups, advanced HubSpot CMS solutions, GoHighLevel agency funnels, and browser automation extensions.
 - 🤝 **Collaboration:** Open to partnering with agencies, SaaS companies, and startups on frontend, backend, CRM custom development, and AI integration projects.
-- 🌱 **Learning & Scaling:** Deep diving into Next.js, TypeScript, AI Automation Agents, and cloud architecture (AWS/GCP).
+- 🌱 **Learning & Scaling:** Deep diving into Next.js (App Router), TypeScript, AI Automation Agents, and cloud architecture (AWS/GCP).
 - 💬 **Ask Me About:** Performance optimization, custom API integrations, WordPress, WooCommerce, HubSpot CMS, and GoHighLevel.
 
 ---
