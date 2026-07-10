@@ -2,6 +2,10 @@
 
 All notable changes to the `abidalidevv` profile configuration and layout will be documented in this file.
 
+## [1.3.0] - 2026-07-10
+### Fixed
+- Corrected git commit email address configuration to ensure proper GitHub achievements sync.
+
 ## [1.2.0] - 2026-07-05
 ### Added
 - Enabled repository Discussions tab to support community QA and feedback.
